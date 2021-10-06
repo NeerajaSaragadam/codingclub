@@ -1,0 +1,1 @@
+echo "Welcoming to coding club"
